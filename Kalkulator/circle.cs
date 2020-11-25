@@ -1,9 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-public class Class1
+namespace Kalkulator.Properties
 {
-	public Class1()
-	{
-		int r;
-	}
+    class circle
+    {
+        int a;
+    }
 }
