@@ -8,7 +8,7 @@ namespace Kalkulator.Properties
 {
     class circle
     {
-        int r=4;
+        int r=6;
+        int a;
     }
 }
-=
